@@ -2,7 +2,7 @@
 
 A minimal, dark-themed autoclicker built with Python. Works for games, testing, and repetitive tasks.
 
-![Pulse Click](screenshot.png)
+![Pulse Click](C:\Users\HELLO\Downloads\pulse-click.zip\pulse-click)
 
 ## Features
 
